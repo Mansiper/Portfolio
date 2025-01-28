@@ -1,0 +1,100 @@
+:root {
+    --main-color: #d7ffda;
+    --card-border-radius: 10px;
+}
+body {
+    background-color: #121212;
+    color: var(--main-color) !important;
+    font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+}
+
+.header-image {
+    width: 100%;
+    height: 500px;
+    background: url('images/header-image.jpg') no-repeat left bottom;
+    background-size: cover;
+    background-color: black;
+    position: relative;
+}
+.header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--main-color);
+    text-align: center;
+}
+.header-text h1 {
+    font-size: 3rem;
+}
+.header-text p {
+    font-size: 1.5rem;
+}
+
+.profile-photo {
+    width: 100%;
+    border-radius: 5%;
+}
+.sn-list {
+    margin-top: 20px;
+}
+.sn-icon {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-outline-light {
+    color: var(--card-border-radius);
+    border-color: var(--card-border-radius);
+}
+.btn-outline-light:hover {
+    color: black;
+    background-color: var(--main-color);
+    border-color: var(--main-color);
+}
+
+.project-img-container {
+    align-content: center;
+}
+.card {
+    background-color: #363636;
+    border-radius: var(--card-border-radius);
+    color: var(--main-color);
+}
+.card-img {
+    width: 100%;
+}
+.card-title {
+    font-size: 2rem;
+}
+.card-title small {
+    font-size: 1rem;
+}
+
+.btn-primary {
+    background-color: #9dff9d;
+    border-color: #9dff9d;
+    color: black;
+}
+.btn-primary:hover {
+    background-color: #50c750;
+    border-color: #50c750;
+    color: black;
+}
+.techs {
+    color: #afbaae;
+}
+
+a.link {
+    color: var(--main-color);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--main-color);
+}
+
+@media screen and (max-width: 768px) {
+    .header-image {
+        height: 300px;
+    }
+}
