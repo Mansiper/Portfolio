@@ -38,7 +38,7 @@ It also allows teachers, dance schools, DJs, performers, dance shows organizers,
 It's perfect for those who travel and want to find a place to dance in a new city.  
 In short: it's Airbnb for social dancers.  
 
-*C#, MSSQL, Blazor*
+*C#, MSSQL, Blazor, Grafana*
 
 ### GymStats (https://gymstats.info/watch)
 
@@ -55,4 +55,11 @@ I also have a copy of this website built with Go, React.js with TypeScript, and 
 It's a Telegram bot designed to manage shopping lists using AI.  
 Users can interact with it via text or voice messages and choose from 10 different languages for the interface.  
 
-*C#, MSSQL, Telegram API, OpenAI API*
+*C#, MSSQL, Telegram API, OpenAI API, Grafana*
+
+### Shopping List (https://t.me/SmartTaskListBot)
+
+It's a Telegram bot designed to manage task lists using AI.  
+Users can interact with it via text or voice messages and choose from 10 different languages for the interface.  
+
+*C#, MSSQL, Telegram API, OpenAI API, Grafana*
