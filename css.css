@@ -49,10 +49,12 @@ body {
     color: var(--card-border-radius);
     border-color: var(--card-border-radius);
 }
-.btn-outline-light:hover {
+.btn-outline-light:hover,
+.btn-outline-light:focus,
+.btn-outline-light:active {
     color: black;
-    background-color: var(--main-color);
-    border-color: var(--main-color);
+    background-color: var(--main-color) !important;
+    border-color: var(--main-color) !important;
 }
 
 .project-img-container {
@@ -78,10 +80,13 @@ body {
     border-color: #9dff9d;
     color: black;
 }
-.btn-primary:hover {
-    background-color: #50c750;
-    border-color: #50c750;
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #50c750 !important;
+    border-color: #2d6e2d !important;
     color: black;
+    box-shadow: none;
 }
 .techs {
     color: #afbaae;
