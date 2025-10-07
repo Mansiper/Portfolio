@@ -1,4 +1,4 @@
-# Pavel Razboynikov. Porfolio
+# Pavel Razboynikov. [Porfolio](https://mansiper.github.io/Portfolio/)
 ### Software engineer.
 
 17 years of total experience, including 9.5 years as a C# developer, 3 years as a Go developer, focusing on back-end engineering with .NET Core and Go. I also use Blazor and React.js for front-end development.
@@ -47,7 +47,7 @@ A web service that helps track gym workouts and shows progress.
 It allows you to select exercises based on the muscle groups you want to train, track your progress, and analyze your workouts.  
 You can also add your own exercises.  
 Available in English, Spanish, and Russian. It has black and white themes.  
-You can [view it without registration](https://gymstats.info/watch). Images aren't available without registration yet.  
+You can [view it without registration](https://gymstats.info/watch). Images aren't available after registration yet.  
 I also have a copy of this website developed using Go, React.js with TypeScript, and MongoDB.  
 
 *C#, .NET Core, MSSQL, Blazor*
