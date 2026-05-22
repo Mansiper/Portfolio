@@ -70,3 +70,10 @@ It's a Telegram bot designed to manage task lists using AI.
 Users can interact with it via text or voice messages and choose from 10 different languages for the interface.  
 
 *C#, MSSQL, Telegram API, OpenAI API, Grafana*
+
+### ArgsToConfig (https://github.com/Mansiper/ArgsToConfig)
+
+A .NET library designed to simplify configuration management.  
+Developers can use it to easily convert command-line arguments into configuration settings.
+
+*C#, .NET*
