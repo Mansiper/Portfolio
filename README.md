@@ -1,9 +1,8 @@
 # Pavel Razboynikov. [Portfolio](https://mansiper.github.io/Portfolio/)
 ### Software engineer.
 
-17 years of total experience, including 9.5 years as a C# developer, 3 years as a Go developer, focusing on back-end engineering with .NET Core and Go. I also use Blazor and React.js for front-end development.
-* Contributed to major projects like Business partner (private transport aggregator), SKB Kontur (solutions for online accounting), Alfa Bank (one of the best Russian banks), SKB SUIK (factory development and automation), showcasing versatility in roles, from software development to team leadership and product management.
-* Successfully automated more than 20 factories, created successful service for the pharmacy market from scratch, developed DB architecture for different services, worked on several startup and open-source projects.
+Senior Backend Engineer with 17+ years of experience, including 9+ years in C#/.NET and 3+ years in Go. Specialized in backend systems design, legacy modernization, and microservices architecture. Proven ability to enter complex, under-documented codebases and ship meaningful improvements fast.
+Built production-grade systems across fintech, real estate, construction, and industrial automation. Capable of operating as both a hands-on engineer and a technical lead — designing architecture, mentoring, managing client communication, and driving delivery end-to-end.
 
 [GitHub](https://github.com/mansiper)  
 [LinkedIn](https://www.linkedin.com/in/razboynik/)  
